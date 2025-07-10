@@ -1,0 +1,10 @@
+scenario: HighCarbonPrice
+vessel_type: RoRo
+fuel_cost_usd_per_kg: 5
+carbon_price_usd_per_ton: 100
+route_km: 400
+load_factor: 0.8
+
+# Set to 0 for green H₂, or 10 for grey H₂
+emission_factor_kg_co2e_per_kg_h2: 10
+cargo_mass_tons: 3000
