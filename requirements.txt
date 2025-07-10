@@ -1,3 +1,5 @@
 PyYAML
 numpy
 pandas
+streamlit
+plotly
